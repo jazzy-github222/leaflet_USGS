@@ -1,7 +1,11 @@
 # Funding Our Future: USGS Insights 🍀
 
 ## Introduction 👩‍💻
+Heyy, my name is Jazzy, the Creator of this code. I'm so so so happy to see you! 
 
+One topic I'm relaly passionate about is building a sustainable future. That includes climate change 🌡️, animals 🐰, and overall preservation of our wonderful planet 🌎. 
+
+Check out what I discovered in my "Analysis 🔍" section below ⬇️.
 
 ## Background 🌅
 
