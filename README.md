@@ -8,6 +8,9 @@ One topic I'm relaly passionate about is building a sustainable future. That inc
 Check out what I discovered in my "Analysis 🔍" section below ⬇️.
 
 ## Background 🌅
+The United States Geological Survey (USGS) is on a mission to visualize their earthquake data to educate the public and secure funding. They're seeking innovative minds to create tools that'll make their vast data easily digestible and impactful. It's a chance to help shape awareness about critical environmental issues and make a real difference for our planet 🌎💼.
+
+As an entrepreneurial-minded person, I'm diving into this challenge head-on, leveraging my expertise to craft intuitive and compelling visualizations that amplify the USGS's message and drive positive change for our planet
 
 
 ## Analysis 🔍
